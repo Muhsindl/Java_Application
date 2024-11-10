@@ -6,7 +6,6 @@ public class JavaApplication {
 		//Kullanıcıdan sayı alınması
 		System.out.println("Kullanıcıdan sayı alınması: ");
 		int sayi=input.nextInt();
-		
 		int result=1;
         //Eğer bu sayı 5'ten büyük ise sayının faktoriyeli hesaplanır
 		if(sayi>5) {
