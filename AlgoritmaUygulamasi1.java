@@ -17,7 +17,7 @@ public class JavaApplication {
         else {
 			result=(sayi-1)/2;
 		}
-        //Kullanıcının ekranına çıktı verilmesi
+        //Kullanıcının ekranına çıktı göstermesi
 		System.out.println("Cevap: "+result);
 	}
 }
