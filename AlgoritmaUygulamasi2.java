@@ -19,5 +19,6 @@ public class JavaApplication {
 		}
 		// Sonucun ekranda gösterilmesi
 		System.out.println("CEVAP: "+result);
+		
 	}
 }
