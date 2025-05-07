@@ -1,13 +1,21 @@
-# Muhsin DOLU Java Uygulamaları
+# ☕ Muhsin DOLU - Java Uygulamaları
 
-Merhaba,
+Merhaba,  
+Ben **Muhsin DOLU**, bir yazılım mühendisiyim. Bu depo, çeşitli **Java** uygulamalarını içermektedir.  
+Uygulamalar, dosyalar halinde düzenlenmiş olup her biri farklı problemleri çözmek amacıyla tasarlanmıştır.
 
-Ben Muhsin DOLU, bir yazılım mühendisiyim. Bu repository, çeşitli Java uygulamalarını içermektedir. Uygulamalar, dosyalar halinde ayrı ayrı saklanmaktadır.
+## 🚀 Nasıl Kullanılır?
 
-Bu dosyaları indirip bilgisayarınızda kullanabilirsiniz. Herhangi bir uygulamayı çalıştırmak için ilgili dosyanın içeriğini kullanarak Java ortamında çalıştırabilirsiniz.
+Bu repodaki dosyaları indirip kendi bilgisayarınızda **Java ortamında** çalıştırabilirsiniz.  
+Herhangi bir uygulamayı çalıştırmak için ilgili dosyanın içeriğini kullanarak **Java IDE** (örneğin IntelliJ IDEA veya Eclipse) veya komut satırı ortamında çalıştırabilirsiniz.
 
-Eğer herhangi bir sorunuz veya yardım talebiniz olursa, bana [muhsindolu06@gmail.com](mailto:muhsindolu06@gmail.com) üzerinden ulaşabilirsiniz.
+## ❓ Destek ve İletişim
 
-İyi çalışmalar!
+Herhangi bir sorunuz olursa ya da destek almak isterseniz benimle iletişime geçebilirsiniz:
 
-Muhsin DOLU
+📧 [muhsindolu06@gmail.com](mailto:muhsindolu06@gmail.com)
+
+---
+
+İyi çalışmalar!  
+**Muhsin DOLU**
