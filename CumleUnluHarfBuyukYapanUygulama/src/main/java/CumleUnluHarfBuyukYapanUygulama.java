@@ -5,13 +5,14 @@ public class CumleUnluHarfBuyukYapanUygulama {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        // Kullanıcıdan cümle alınması
         System.out.println("Cümle giriniz: ");
         String txt = input.nextLine();
-
+        // Kullanıcıdan alınan cümlenin unluBuyukYap() metoduna gönderilmesi
         unluBuyukYap(txt);
     }
 
+    // ünlü harfleri büyük harf ile değiştiren metot
     static void unluBuyukYap(String txt) {
         StringBuffer text = new StringBuffer(txt);
         for (int i = 0; i < text.length(); i++) {
@@ -44,6 +45,7 @@ public class CumleUnluHarfBuyukYapanUygulama {
                     break;
             }
         }
+        // Yeni cümlenin ekranda gösterilmesi
         System.out.println("Yeni cümle: \n" + text);
     }
 }
