@@ -5,13 +5,13 @@ public class CumleKarakterSilmeUygulamasi {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        // Kullanıcı tarafından cümle girilmesi
         System.out.println("Cümle giriniz: ");
         String txt = input.nextLine();
-
+        // Kullanıcı tarafından silinecek karakterin girilmesi
         System.out.println("Silinecek karakteri giriniz: ");
         String ch = input.nextLine();
-
+        // Karakter mi cümle mi girildi diye silinecek elemanın kontrol edilmesi
         if (ch.length() != 1) {
             System.out.println("HATA Silinecek karakter tek olmalı !!!");
             return;
@@ -22,7 +22,7 @@ public class CumleKarakterSilmeUygulamasi {
 
         karakterSil(txt, ch);
     }
-
+    // Karakter silme  metoduna kullanıcıdan alınan değerlerin gönderilmesi
     static void karakterSil(String text, String ch) {
         StringBuffer bfrTxt = new StringBuffer(text);
         for (int i = 0; i < bfrTxt.length(); i++) {
