@@ -5,13 +5,13 @@ public class CumleOzellestirmeUygulamasi {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        // Kullanıcıdan cümlenin alınması
         System.out.println("Özelleştirilecek Cümle giriniz: ");
         String text = input.nextLine();
-
+        // Kullanıcıdan alınan cümlenin ozellestirCumle() fonksiyonuna gönderilmesi
         ozellestirCumle(text);
     }
-
+    // ozellestirCumle() metodu ile bazı karakterlerin değiştirilme işleminin yapılması
     static void ozellestirCumle(String txt) {
         StringBuffer bfr = new StringBuffer(txt);
 
