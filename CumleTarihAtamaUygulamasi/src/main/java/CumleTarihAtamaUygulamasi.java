@@ -18,7 +18,7 @@ public class CumleTarihAtamaUygulamasi {
 
     }
     
-    // Tarih ile cümleyi birleştirip ekrana yazdıran uygulama
+    // Tarih ile cümleyi birleştirip ekrana yazdıran metot
     static void tarihAta(String txt, String tarih) {
         StringBuffer bfrCumle = new StringBuffer(txt);
         bfrCumle.insert(0, "Tarihli Cümle: ");
