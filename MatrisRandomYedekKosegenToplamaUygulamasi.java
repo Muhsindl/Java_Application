@@ -1,5 +1,3 @@
-// Matris yedek köşegen eleman toplamı
-
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
