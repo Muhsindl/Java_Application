@@ -1,4 +1,3 @@
-// If-Else Şart blokları
 import java.util.Scanner;
 
 public class SayiKiyaslamaUygulamasi {
